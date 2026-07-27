@@ -7,3 +7,4 @@
 paraview*
 *.log
 .venv
+.vscode/
